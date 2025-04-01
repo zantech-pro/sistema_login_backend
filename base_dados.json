@@ -1,0 +1,29 @@
+[
+    {
+        "user": "joaostartup",
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "email": "joao@startup.com.br",
+        "palavra_secreta": "Startup na alta",
+        "nome_full": "João Startup",
+        "date_birth": "31/12/1999",
+        "id": 1
+    },
+    {
+        "user": "mariadevjava",
+        "password": "8a9bcf1e51e812d0af8465a8dbcc9f741064bf0af3b3d08e6b0246437c19f7fb",
+        "email": "maria.dev@devjava.com.br",
+        "palavra_secreta": "Maria programa em java",
+        "nome_full": "Maria dev Java",
+        "date_birth": "22/09/1989",
+        "id": 2
+    },
+    {
+        "user": "enzonoob123",
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "email": "juninho@jovemenrolado.com.br",
+        "palavra_secreta": "Minha senha e admin123",
+        "nome_full": "Enzo junior",
+        "date_birth": "01/04/2015",
+        "id": 3
+    }
+]
